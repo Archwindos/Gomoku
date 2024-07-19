@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/AI.png</file>
+        <file>pic/AI_select.png</file>
+        <file>pic/firstBackground.png</file>
+        <file>pic/online.png</file>
+        <file>pic/online_select.png</file>
+        <file>pic/PP.png</file>
+        <file>pic/PP_select.png</file>
+        <file>pic/secondBackground.png</file>
+        <file>pic/AIBackground.png</file>
+        <file>pic/blackSmall.png</file>
+        <file>pic/whiteSmall.png</file>
+        <file>pic/black.png</file>
+        <file>pic/white.png</file>
+        <file>pic/unknown.png</file>
+        <file>pic/ico.ico</file>
+    </qresource>
+</RCC>

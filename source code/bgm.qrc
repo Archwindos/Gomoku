@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bgm/in.mp3</file>
+        <file>bgm/lose.wav</file>
+        <file>bgm/ONE DAY IN SPRING.mp3</file>
+        <file>bgm/over.mp3</file>
+        <file>bgm/win.mp3</file>
+        <file>bgm/in.wav</file>
+        <file>bgm/over.wav</file>
+        <file>bgm/win.wav</file>
+        <file>bgm/gaming.wav</file>
+    </qresource>
+</RCC>
